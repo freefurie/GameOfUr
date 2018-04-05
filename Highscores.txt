@@ -1,0 +1,5 @@
+Anouk ; 20
+William ; 50
+Name ; 0
+Name ; 0
+Name ; 0

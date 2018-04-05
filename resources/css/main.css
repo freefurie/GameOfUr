@@ -1,0 +1,15 @@
+.button {
+    -fx-background-color: lightgray;
+}
+.title{
+    -fx-font-size: 60;
+}
+.label30{
+    -fx-font-size: 30;
+}
+.label35{
+    -fx-font-size: 35;
+}
+background{
+    -fx-background-image: url("background/backgroundJapanseHouse.jpg");
+}
