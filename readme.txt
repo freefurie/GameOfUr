@@ -19,6 +19,7 @@ Bugs:
 - Game crashes upon finishing
 - Reported hard crash during the game (not been able to reproduce)
 - Undo doesn't reset the opponents piece if it was taken
+- External saving of highscores or board doesn't work
 
 The game had to be created using the MVP pattern of Java: Model - View - Presenter.
 The Model is smart, but ugly: it can't contain any javaFX code, and must perform most of the logic.
